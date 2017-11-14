@@ -1,5 +1,4 @@
 import os
-
 def walk(dir):
  try:
   names=[]
